@@ -1,0 +1,273 @@
+$ history
+    1  pwd
+    2  cd DataCamp
+    3  pwd
+    4  ls
+    5  ls-l
+    6  ls - l
+    7  clear
+    8  ñs
+    9  ls
+   10  clear
+   11  cd Users/Rafael/Desktop
+   12  clear
+   13  ls
+   14  ls - a
+   15  ls -a
+   16  cd ..
+   17  ls
+   18  ls -lh
+   19  ls -R
+   20  ls
+   21  ls
+   22  ls -a
+   23  clear
+   24  touch archivo 1
+   25  ls
+   26  touch archivo2.txt archivo.pdf
+   27  cd..
+   28  cp /ls
+   29  ls
+   30  Games
+   31  /Games
+   32  Tesis
+   33  cd Tesis
+   34  cp Games ../Tesis
+   35  mv EFECTO_1 EFECTO_2
+   36  LP
+   37  lp
+   38  ls
+   39  mv EFECTO_1.DOC EFECTO_2.DOC
+   40  CLEAR
+   41  cd ...
+   42  cd ..
+   43  mkdir DH
+   44  cd DH
+   45  mkdir Peliculas
+   46  cd Peliculas
+   47  mkdir Infantiles Acción Terror Comedia Romantica
+   48  ls
+   49  cd Infantiles
+   50  touch Intenzamente.txt
+   51  touch "El juego del miedo.xls"
+   52  touch "Rapido y furioso.pdf"
+   53  touch "Titanic.jpg
+   54  touch Titanic.jpg
+   55  clear
+   56  clear
+   57  claer
+   58  clear
+   59  $clear
+   60  clear
+   61  touch Titanic.jpg
+   62  ..
+   63  cd ..
+   64  cd ..
+   65  cd DH
+   66  cd dh
+   67  DH
+   68  cd DH
+   69  ../Peliculas
+   70  Peliculas
+   71  ls
+   72  cd Oeliculas
+   73  cd Peliculas
+   74  cd Acción
+   75  touch "Smooth Criminal.txt" "Diario de una Pasión.js" "El hexorcista.xls"
+   76  CD
+   77  cd
+   78  pwd
+   79  cd Rafael
+   80  cd Desktop
+   81  pwd
+   82  ls
+   83  cd Games
+   84  list
+   85  ls
+   86  cd desktop
+   87  cd Desktop
+   88  cd ..
+   89  mkdir
+   90  mkdor Informes
+   91  mdkir Informes
+   92  mkdir Desktop
+   93  mkdir informes
+   94  cd informes
+   95  touch informeAnual.xls
+   96  ls
+   97  mdkir auditoria
+   98  mkdir auditoria
+   99  touch auditoria.xls
+  100  touch reporteConsolidado.xls
+  101  ls
+  102  mv auditoria.xls
+  103  mv informes/auditoria.xl informes/auditoria
+  104  mv auditoria.xls informes/auditoria
+  105  mv Desktop/informes auditoria.xls Desktop/informes/auditoria
+  106  mv auditoria.xls Desktop/informes/auditoria
+  107  mv auditoria.xls
+  108  ls
+  109  mv auditoria.xls /Desktop/informes/auditoria/
+  110  lp
+  111  pwd
+  112  mv auditoria.xls /c/Users/Rafael/Desktop/informes/auditoria
+  113  mv informeAnual.xls /Desktop/informes/auditoria
+  114  cd auditoria
+  115  ls
+  116  nano auditoria.xls
+  117  git --version
+  118  git
+  119  cd desktop
+  120  mkdir prueba 1
+  121  cd prueba 1
+  122  lp
+  123  ls
+  124  prueba
+  125  cd prueba
+  126  puch
+  127  push
+  128  punch
+  129  push mandolin.pdf
+  130  touch pepe.pdf
+  131  touch mandolina.xls
+  132  git init
+  133  ls
+  134  ls -a
+  135  git config user.name "Rafita"
+  136  git config user.name "rafa@gmail.com"
+  137   git status
+  138  cd ..
+  139  mkdir prueba 2
+  140  mkdir "prueba 2"
+  141  cd prueba
+  142  touch app.js
+  143  touch funciones.js
+  144  usuarios.js
+  145  touch usuarios.js
+  146  git add funciones.js
+  147  git status
+  148  git add.
+  149  git add .
+  150  git status
+  151  git status
+  152  git status
+  153  git add app.js
+  154  git status
+  155  ls
+  156  cd desktop
+  157  mkdir tarea1
+  158  cd tarea1
+  159  git init
+  160  touch app.js
+  161  git status
+  162  git add app.js
+  163  git status
+  164  cd desktop
+  165  mkdir trabajo2
+  166  cd trabajo2
+  167  touch app.js
+  168  touch arrays.js
+  169  touch objetos.js
+  170  git status
+  171  git init
+  172  git status
+  173  git add .
+  174  git status
+  175  gir commit -m "Creando los 3 archivos principales"
+  176  git commit -m "Creando los 3 archivos principales"
+  177  git config user.email "Rafael"
+  178  git config user.name "Rafa"
+  179  git commit -m "Creando los 3 archivos principales"
+  180  git status
+  181  git log
+  182  touch funciones.js
+  183  git status
+  184  git add funciones.js
+  185  git status
+  186  git commit -m "Cree el archivo de funciones"
+  187  git log
+  188  git status
+  189  cd desktop
+  190  ls
+  191  cd trabajo2
+  192  git log
+  193  CD DESKTOP
+  194  cd desktop
+  195  mkdir mercadoAbierto
+  196  cd mercadoAbierto
+  197  git init
+  198  touch productos.js
+  199  git status
+  200  git add productos.js
+  201  git status
+  202  git commit -m "mi primer commit"
+  203  git config user.name "rafa"
+  204  git config user.email "rafa@gotcha.com.pe
+  205  ls
+  206  asd
+  207  zxc
+  208  xzc
+  209  asd
+  210  sad
+  211  saf
+  212  as
+  213  cd desktop
+  214  ls
+  215  cd mercadoAbierto
+  216  ls
+  217  git rm productos.js
+  218  git rm "productos.js"
+  219  ls
+  220  git status
+  221  git commit -m "mi primer commit"
+  222  git config user.name "rafita"
+  223  git config user.email "rafa@dimas.com
+  224  "
+  225  git status
+  226  git commit -m "mi primer commit""
+  227  "
+  228  git status
+  229  git clone https://github.com/stefiMS/room21.git
+  230  ls
+  231  cd desktop
+  232  ls
+  233  git clone https://github.com/Rafael182129/rafaprueba.git
+  234  ls
+  235  cd rafaprueba
+  236  git init
+  237  git config user.name rafael
+  238  git config user.email rafaelinfantasv@gmail.com
+  239  git config user.email
+  240  git remote add origin https://github.com/Rafael182129/rafaprueba.git
+  241  git remote -v
+  242  git status
+  243  git log
+  244  touch prueba.html
+  245  ls
+  246  git add prueba.html
+  247  git status
+  248  git commit -m "primer archivo"
+  249  git status
+  250  git add prueba.html
+  251  git commit -m "modificado"
+  252  git status
+  253  git log
+  254  git checkout prueba.html
+  255  git checkout f56e30ec7e10e9ba712ca4152cad6e22542b8673
+  256  git log
+  257  git status
+  258  git push origin main
+  259  ls
+  260  git add .
+  261  git commit go.css
+  262  git branch
+  263  git checkout main
+  264  git mv main.js resumenHardware.txt
+  265  git mv index.html resumenSoftware.txt
+  266  git add .
+  267  git commit -m "commit 03 de RafaelInfantas"
+  268  git push origin main
+  269  git status
+  270  git log
+  271  touch comandos.txt
+  272  history
